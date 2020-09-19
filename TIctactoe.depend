@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600444083 source:d:\arun\ltts\coding\tictactoe\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1600440060 d:\arun\ltts\coding\tictactoe\tic.h
+
+1600443902 source:d:\arun\ltts\coding\tictactoe\untitled3.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
