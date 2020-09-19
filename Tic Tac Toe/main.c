@@ -110,6 +110,7 @@ int check(char sym[9],char ch,int count){
         return 1;
     }else return 0;
 }
+//My contribution overs here
 struct myDataType inputValue(char sym[9],int count){
     char value;
     int i;
@@ -141,7 +142,6 @@ struct myDataType inputValue(char sym[9],int count){
     }
     return info;
 }
-//My contribution
 int checks1(char sym[9],char ch,int count){
     int i;
     for(i = 0;i<=6; i+=3)//it's for row
@@ -184,6 +184,7 @@ int checks3(char sym[9],char ch,int count){
         return 1;
     }else return 0;
 }
+//My contribution
 struct myDataType inputValues1(char sym[9],int count){
     char value;
     int i;
@@ -245,6 +246,7 @@ struct myDataType inputValues1(char sym[9],int count){
     }
     return info;
 }
+//My contribution overs here
 void run1(){
     int count = 0;
     struct myDataType info;
